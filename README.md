@@ -18,6 +18,8 @@ The script to reproduce all the figures, tables in the paper are as follows:
 + `PCA8-evaluation.R`: pca analysis stuffs
 + `top3-features.R`: Results obtained by considering top-3 features
 + `More details.ipynb`: Other experiments
++ `CNN_all_Features.ipynb`: Results obtained by CNN model considering all features
++ `MPL_all_Features.ipynb`: Results obtained by MPL model considering all features
 
 ### Results 
 We also share the results obtained in our random downsampling experiments. The results obtained with the various benchmarking approaches is found in `my_results.csv`.
