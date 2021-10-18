@@ -18,7 +18,7 @@ The script to reproduce all the figures, tables in the paper are as follows:
 + `PCA8-evaluation.R`: pca analysis stuffs
 + `top3-features.R`: Results obtained by considering top-3 features
 + `More details.ipynb`: Other experiments
-+ `CHADS2_stroke_proportion`: 
++ `CHADS2_stroke_proportion`: Results about the proportion of cases with a stroke event as predicted by $CHADS_2$ for each scorelevel respectively
 + `CNN_all_Features.ipynb`: Results obtained by CNN model considering all features
 + `MPL_all_Features.ipynb`: Results obtained by MPL model considering all features
 + `SVM_all_Features.ipynb`: Results obtained by SVM model considering all features
