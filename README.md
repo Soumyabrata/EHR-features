@@ -4,7 +4,20 @@ With the spirit of reproducible research, this repository contains all the codes
 
 > Soumyabrata Dev, Hewei Wang, Chidozie Shamrock Nwosu, Nishtha Jain, Bharadwaj Veeravalli, and Deepu John, A predictive analytics approach for stroke prediction using machine learning and neural networks, *Healthcare Analytics*, 2022.
 
-Please cite the above paper if you intend to use whole/part of the code. This code is only for academic and research purposes.
+Please cite the above [paper](https://www.sciencedirect.com/science/article/pii/S2772442522000090) if you intend to use whole/part of the code. This code is only for academic and research purposes.
+
+```
+@article{DEV2022100032,
+title = {A predictive analytics approach for stroke prediction using machine learning and neural networks},
+journal = {Healthcare Analytics},
+volume = {2},
+pages = {100032},
+year = {2022},
+issn = {2772-4425},
+doi = {https://doi.org/10.1016/j.health.2022.100032},
+author = {Soumyabrata Dev and Hewei Wang and Chidozie Shamrock Nwosu and Nishtha Jain and Bharadwaj Veeravalli and Deepu John},
+}
+```
 
 ## Code Organization
 All codes are written in `R` and `python`. 
